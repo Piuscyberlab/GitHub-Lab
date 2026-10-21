@@ -1,1 +1,1 @@
-Get-Location | Select-Object Path
+Get-Location
